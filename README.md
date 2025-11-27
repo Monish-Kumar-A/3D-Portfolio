@@ -61,7 +61,7 @@ src/
 ├── components/
 │   ├── Navbar.jsx
 │   ├── Hero.jsx
-│   ├── HeroCanvas.jsx      # Three.js scene component
+│   ├── HeroCanvas.jsx     
 │   ├── About.jsx
 │   ├── Skills.jsx
 │   ├── Projects.jsx
@@ -69,7 +69,7 @@ src/
 │   ├── ThemeToggle.jsx
 │   └── ScrollToTop.jsx
 ├── hooks/
-│   └── useTheme.js          # Theme management hook
+│   └── useTheme.js        
 ├── styles/
 │   ├── globals.css
 │   ├── Navbar.css
